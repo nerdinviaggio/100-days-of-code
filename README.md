@@ -59,3 +59,4 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 
 
 https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/basic-html-website
