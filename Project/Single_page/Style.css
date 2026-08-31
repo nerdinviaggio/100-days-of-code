@@ -1,0 +1,101 @@
+body {
+    background-color: antiquewhite;
+}
+
+#container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+header {
+    max-width: 940px;
+    min-width: 940px;
+    margin-left: 10px;
+    margin-bottom: 20 px;
+    margin-right: 10 px;
+    margin-top: 20px;
+}
+
+#primaRiga {
+    max-width: 920px;
+    min-width: 920px;
+    margin: 20px 0px 20px 10px;
+    max-height: 100px;
+    border: 1px solid;
+    float: left;
+}
+
+
+#foto img {
+    float: left;
+    width: 45px;
+    height: 45px;
+    margin: 2px 2px 2px 2px;
+}
+
+#foto p {
+    vertical-align: middle;
+    float: left;
+}
+
+#link {
+    float: right
+}
+
+#link ul {
+    float: right;
+    list-style: none;
+}
+
+li {
+    float: left;
+}
+
+.col2 {
+    width: 445px;
+    margin: 20px 0px 20px 10px;
+}
+
+#titolo {
+    text-align: center;
+}
+
+.col3 {
+    float: left;
+    width: 300px;
+    margin: 20px 0px 20px 10px;
+    border: 1px solid;
+    text-align: center;
+    height: 300px;
+}
+
+#secondariga {
+    max-width: 940px;
+    min-width: 940px;
+    margin: 20px 0px 20px 10px;
+}
+
+#reviews {
+    border: 1px solid;
+    text-align: center;
+    max-width: 940px;
+    min-width: 940px;
+    margin: 20px 0px 20px 10px;
+    float: left;
+}
+
+aside {
+    margin: 20px 15px 20px 10px;
+    width: 280px;
+    height: 200px;
+    border: 2px solid;
+    float: left
+}
+
+footer {
+    float: left;
+    max-width: 940px;
+    margin: 20px 10px 20px 10px;
+    min-width: 940px;
+    text-align: center;
+}
